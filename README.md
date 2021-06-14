@@ -1,2 +1,2 @@
 # My portfolio
-Try to make my own website
+My own website made in GitHub
