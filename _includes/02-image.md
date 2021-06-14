@@ -1,1 +1,1 @@
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Yaktocat](https://raw.githubusercontent.com/fomindma/images/main/MY-PHOTO.jpg?token=ASTF5ZEPSIDEPFNODMLWUHDAY36T6)
