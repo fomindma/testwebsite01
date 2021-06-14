@@ -1,1 +1,1 @@
-[Image of Yaktocat](https://github.com/fomindma/images/blob/main/MY-PHOTO.jpg)
+[Image of Yaktocat](MY-PHOTO.jpg)
