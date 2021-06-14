@@ -1,1 +1,1 @@
-[Image of Yaktocat](https://raw.githubusercontent.com/fomindma/images/main/MY-PHOTO.jpg?token=ASTF5ZEPSIDEPFNODMLWUHDAY36T6)
+[Image of Yaktocat](https://github.com/fomindma/images/blob/main/MY-PHOTO.jpg)
